@@ -1,0 +1,13 @@
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\AxInterop.ActUtlTypeLib.dll
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.csproj.ResolveComReference.cache
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.Properties.Resources.resources
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.csproj.GenerateResource.Cache
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\bin\Debug\PLC_LaserConrtrol.exe
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\bin\Debug\PLC_LaserConrtrol.pdb
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.exe
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.pdb
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.PLCAction.resources
+D:\code\PLC雷射控制介面\PLC_LaserConrtrol\PLC_LaserConrtrol\obj\x86\Debug\PLC_LaserConrtrol.MainForm.resources
